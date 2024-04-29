@@ -1,0 +1,35 @@
+@font-face{font-family: roboto;
+src: url(font/Roboto-Bold.ttf);}
+
+*{margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+font-family: roboto;
+background-color: rgb(218, 214, 214);
+
+
+h1{font-family: Roboto;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 62px;
+    text-align: center;}
+    
+
+p{
+    margin:0%;
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 100;
+line-height: 26px;
+text-align: center;
+color: #696C73;}
+
+.button{
+    font-family: roboto;
+    font-weight: 200;
+    background: #64D2FF;
+    font-size: small;
+    letter-spacing: 0.07rem;
+    
+    ;
+}
